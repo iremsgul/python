@@ -1,0 +1,7 @@
+name=str(input("What is your name:"))
+surname=str(input("What is your surname:"))
+age=int(input("What is your age:"))
+weight=float(input("What is your weight:"))
+height=float(input("What is your height:"))
+print("name:"+str(name),"surname:"+str(surname),"age:"+str(age),"weight:"+str(weight),"height:"+str(height))
+print(type(name),type(surname),type(age),type(weight),type(height))
